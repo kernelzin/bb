@@ -1,0 +1,16 @@
+
+
+
+'South Park': 
+  regex: 'southpark'
+  filter: S22
+  op: '>='
+
+
+'Game of Thrones':
+  regex: 'gameofthrones'
+  filter: S03
+
+
+
+

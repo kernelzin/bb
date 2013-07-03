@@ -1,0 +1,11 @@
+
+
+
+'South Park': 
+  regex: 'southpark'
+  filter: S22
+  op: '>='
+
+
+
+
